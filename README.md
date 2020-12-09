@@ -6,7 +6,7 @@ If you want to run this locally
 
 `cd {repo}`
 
-run the follwing command to get done with the prerequsites `pip install requirements.txt`
+run the following command to get done with the prerequsites `pip install requirements.txt`
 
 After that navigate into the directory and run `streamlit run streamlit_app.py` 
   
