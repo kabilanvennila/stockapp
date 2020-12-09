@@ -1,6 +1,6 @@
 # stockapp
 
-## [Demo app]https://s4a.streamlit.io/kabilanvennila/stockapp/main/streamlit_app.py
+## [Demo app]https://share.streamlit.io/kabilanvennila/stockapp/main
 
 If you want to run this locally 
 
