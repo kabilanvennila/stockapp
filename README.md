@@ -11,4 +11,4 @@ run the following command to get done with the prerequsites `pip install require
 After that navigate into the directory and run `streamlit run streamlit_app.py` 
   
 ### [Local app ]localhost
-### It wil be run in your network url as well
+### It will be running in your network url as well
